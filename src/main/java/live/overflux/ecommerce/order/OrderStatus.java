@@ -1,4 +1,4 @@
-package live.overflux.ecommer.order;
+package live.overflux.ecommerce.order;
 
 public enum OrderStatus {
 

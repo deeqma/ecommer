@@ -1,4 +1,4 @@
-package live.overflux.ecommer.customer;
+package live.overflux.ecommerce.customer;
 
 import java.util.List;
 

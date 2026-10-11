@@ -1,4 +1,4 @@
-package live.overflux.ecommer;
+package live.overflux.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

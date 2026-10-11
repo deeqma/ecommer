@@ -1,4 +1,4 @@
-package live.overflux.ecommer.customer;
+package live.overflux.ecommerce.customer;
 
 public class Address {
 

@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>live.overflux</groupId>
-    <artifactId>ecommer</artifactId>
+    <artifactId>ecommerce</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ecommer</name>
-    <description>ecommer</description>
+    <name>ecommerce</name>
+    <description>e-commerce</description>
     <url/>
     <licenses>
         <license/>

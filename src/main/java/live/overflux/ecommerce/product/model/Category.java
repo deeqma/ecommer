@@ -1,4 +1,4 @@
-package live.overflux.ecommer.product;
+package live.overflux.ecommerce.product.model;
 
 public enum Category {
     HOODIE,
